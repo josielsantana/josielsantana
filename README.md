@@ -3,8 +3,8 @@ I'm currently Learning Python and R
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/josiel-santana/) 
-[![HackerRanks](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/josiel-santana/](https://www.hackerrank.com/josielsantana?hr_r=1)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiel-santana/) 
+[![HackerRanks](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.hackerrank.com/josielsantana?hr_r=1)) 
 
 
 # 💻 Tech Stack:
