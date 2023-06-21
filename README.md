@@ -3,7 +3,7 @@ I'm currently learning Python and R
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://i.imgur.com/uFFbnkq.png)](https://www.linkedin.com/in/josiel-santana/) 
+[![LinkedIn](https://i.imgur.com/ZeX5Cbf.png)](https://www.linkedin.com/in/josiel-santana/) 
 [![HackerRanks](https://imgur.com/Aawx7Nf)](https://www.hackerrank.com/josielsantana?hr_r=1)) 
 
 
