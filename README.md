@@ -1,10 +1,10 @@
 # 💫 About Me:
-I'm currently Learning Python and R
+I'm currently learning Python and R
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiel-santana/) 
-[![HackerRanks](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.hackerrank.com/josielsantana?hr_r=1)) 
+[![LinkedIn](https://imgur.com/uFFbnkq)](https://www.linkedin.com/in/josiel-santana/) 
+[![HackerRanks](https://imgur.com/Aawx7Nf)](https://www.hackerrank.com/josielsantana?hr_r=1)) 
 
 
 # 💻 Tech Stack:
