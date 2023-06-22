@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h1 align="left">👩‍💻  About Me</h1>
 
 ###
 
@@ -34,7 +34,7 @@
 
 <div align="left">
   <a href='https://www.linkedin.com/in/josiel-santana/'><img src="https://i.imgur.com/ZeX5Cbf.png" height="40" alt="linkedin logo"  /></a>
-  <img width="12" />
+  <img width="9" />
   <a href='https://www.hackerrank.com/josielsantana?hr_r=1'><img src="https://i.imgur.com/OM3L2ou.png" height="40" alt="javascript logo"  /></a>
 </div>
 
@@ -48,5 +48,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=josielsantana&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=josielsantana&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![LinkedIn](https://i.imgur.com/ZeX5Cbf.png)](https://www.linkedin.com/in/josiel-santana/) 
-[![HackerRanks](https://i.imgur.com/OM3L2ou.png)](https://www.hackerrank.com/josielsantana?hr_r=1)
