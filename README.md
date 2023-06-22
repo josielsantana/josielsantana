@@ -33,9 +33,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <a href='https://www.linkedin.com/in/josiel-santana/'><img src="https://i.imgur.com/ZeX5Cbf.png" height="40" alt="linkedin logo"  /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <a href='https://www.hackerrank.com/josielsantana?hr_r=1'><img src="https://i.imgur.com/OM3L2ou.png" height="40" alt="javascript logo"  /></a>
 </div>
 
 ###
