@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Josiel Santana and I'm from Santos - Brazil.<br><br>- 📚 I'm currently learning Python and R<br>- 📝 I’m student at Fatec Baixada - Rubens Lara<br>- ⚡ In my free time I listen to music and play videogames</p>
+<p align="left">My name is Josiel Santana and I'm from Santos - Brazil.<br><br>- 📚 I'm currently learning Python and R<br>- 📝 I’m student at Fatec Baixada - Rubens Lara</p>
 
 ###
 
